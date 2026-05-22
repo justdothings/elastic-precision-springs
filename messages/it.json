@@ -1,0 +1,637 @@
+{
+  "Site": {
+    "nav": {
+      "home": "Home",
+      "products": "Prodotti",
+      "applications": "Applicazioni",
+      "capabilities": "Capacità",
+      "about": "Azienda",
+      "contacts": "Contatti",
+      "contact": "Richiesta"
+    },
+    "cta": {
+      "quote": "Invia disegno o richiesta",
+      "products": "Vedi prodotti",
+      "similar": "Richiedi pezzo simile",
+      "upload": "Carica disegno / foto / file"
+    },
+    "home": {
+      "eyebrow": "Produzione a Plovdiv, Bulgaria * molle tecniche * elementi in filo",
+      "headline": "Produzione di molle ed elementi in filo da Ø0,2 a Ø4,5 mm",
+      "subhead": "Produzione di molle a compressione, trazione e torsione, elementi piegati in filo, particolari torniti di precisione e nastri a rete metallica.",
+      "proof": [
+        "Molle con filo Ø0,2–4,5 mm",
+        "Da disegno, campione o specifica",
+        "Piccole e medie serie",
+        "Richiesta con file e dati tecnici"
+      ],
+      "productTitle": "Tipi di prodotto",
+      "processTitle": "Dal filo al pezzo finito",
+      "process": [
+        "Verifica tecnica",
+        "Scelta materiale",
+        "Avvolgimento / piegatura",
+        "Controllo dimensioni",
+        "Lotto finito"
+      ],
+      "configuratorTitle": "Configuratore 3D interattivo per molle"
+    },
+    "springManufacturer": {
+      "eyebrow": "Produzione di molle su misura in Bulgaria",
+      "h1": "Produttore di molle a Plovdiv, Bulgaria",
+      "intro": "Stevini Springs produce molle tecniche ed elementi in filo a Plovdiv, Bulgaria. Lavoriamo da disegno, campione o specifica tecnica quando servono molle a compressione, trazione, torsione o parti speciali in filo per macchine e attrezzature industriali.",
+      "quoteButton": "Richiedi un preventivo per molle",
+      "contactLink": "Per indirizzo, telefono e contatti diretti visita la pagina Contatti. Per un preventivo invia un disegno, una foto del campione o le dimensioni principali.",
+      "contactLinkCta": "Contatti",
+      "overview": [
+        {
+          "title": "Produzione di molle su misura in Bulgaria",
+          "body": "Produciamo molle a Plovdiv per aziende che hanno bisogno di componenti affidabili in piccole e medie serie."
+        },
+        {
+          "title": "Tipi di molle che produciamo",
+          "body": "La produzione include molle a compressione, trazione, torsione, elementi in filo e parti speciali da disegno, campione o specifica."
+        }
+      ],
+      "typesTitle": "Tipi di molle che produciamo",
+      "typesIntro": "Produzione per acquirenti industriali, costruttori di macchine, riparatori e fornitori tecnici.",
+      "types": [
+        { "title": "Molle a compressione", "body": "Molle a compressione personalizzate per macchine, assiemi e ricambi." },
+        { "title": "Molle a trazione", "body": "Molle a trazione con ganci, occhielli e terminali speciali." },
+        { "title": "Molle a torsione", "body": "Molle a torsione con bracci, angoli e direzione di avvolgimento personalizzati." },
+        { "title": "Elementi in filo e parti speciali", "body": "Elementi in filo, clip, fermi, ganci e guide da disegno o campione." }
+      ],
+      "industriesTitle": "Settori serviti",
+      "industriesIntro": "Collaboriamo con aziende in Bulgaria e in Europa.",
+      "industries": ["Macchinari industriali", "Macchine agricole", "Automotive e trasporti", "Linee di imballaggio e produzione", "Manutenzione e ricambi"],
+      "capabilitiesTitle": "Capacità produttive",
+      "capabilitiesIntro": "Le richieste possono basarsi su disegni, campioni e dati tecnici.",
+      "capabilities": ["Filo Ø0,2–4,5 mm", "Produzione da disegno, campione o specifica", "Piccole e medie serie", "Molle a compressione, trazione e torsione", "Elementi in filo e parti speciali"],
+      "whyTitle": "Come gestiamo le richieste industriali",
+      "whyIntro": "Il processo è pratico: chiarifichiamo dati tecnici, applicazione e quantità prima di preparare l'offerta.",
+      "why": ["Esaminiamo disegni, campioni o foto", "Chiarifichiamo materiale, dimensioni e condizioni di lavoro", "Adattiamo il lotto alla quantità richiesta", "Forniamo un'offerta chiara e i passaggi successivi"],
+      "quoteTitle": "Richiedi un preventivo",
+      "quoteBody": "Invia disegno, dimensioni, materiale, diametro filo, diametro molla, quantità e applicazione.",
+      "faqTitle": "Domande frequenti",
+      "faqs": [
+        { "question": "Producete molle su misura a Plovdiv?", "answer": "Sì. Produciamo molle metalliche a Plovdiv, Bulgaria, da disegno, campione o specifica." },
+        { "question": "Quali tipi di molle producete?", "answer": "Produciamo molle a compressione, trazione, torsione, elementi in filo e parti speciali." },
+        { "question": "Fornite aziende fuori Plovdiv?", "answer": "Sì. Possiamo fornire aziende in Bulgaria e in Europa." }
+      ]
+    },
+    "pages": {
+      "springManufacturer": {
+        "title": "Produttore molle Plovdiv Bulgaria | Molle su misura",
+        "intro": "Stevini produce molle tecniche ed elementi in filo a Plovdiv da disegno, campione o specifica per applicazioni industriali."
+      },
+      "products": {
+        "title": "Prodotti",
+        "intro": "Molle, elementi in filo, particolari torniti di precisione e nastri trasportatori su disegno, campione o specifica."
+      },
+      "applications": {
+        "title": "Applicazioni",
+        "intro": "Applicazioni in macchinari, produzione alimentare, linee di imballaggio, attrezzature agricole, automazione e manutenzione."
+      },
+      "capabilities": {
+        "title": "Capacità produttive",
+        "intro": "Capacità tecniche verificabili: filo Ø0,2–4,5 mm, geometrie custom, piccole e medie serie."
+      },
+      "about": {
+        "title": "Oltre 30 anni di produzione di molle tecniche e parti in filo in Bulgaria",
+        "intro": "Stevini è un'azienda manifatturiera bulgara con oltre 30 anni di esperienza. Produciamo molle, elementi in filo, particolari torniti di precisione e nastri trasportatori a rete metallica per team di produzione in Bulgaria e nell'UE."
+      },
+      "contacts": {
+        "title": "Contatti",
+        "intro": "Chiamaci al numero indicato. Per un'offerta più precisa, invia un disegno o una foto all'indirizzo email indicato, oppure porta un campione presso la nostra sede."
+      },
+      "contact": {
+        "title": "Richiedi un preventivo",
+        "intro": "Invia un'email con disegno, foto o breve descrizione tecnica. La lista seguente indica quali informazioni aiutano a preparare un'offerta accurata."
+      },
+      "privacy": {
+        "title": "Privacy",
+        "intro": "Informazioni sul trattamento dei dati durante il contatto e la richiesta."
+      },
+      "terms": {
+        "title": "Termini",
+        "intro": "Informazioni sull'uso del sito e sui contenuti produttivi presentati."
+      }
+    },
+    "seo": {
+      "homeTitle": "Produzione di molle ed elementi in filo da Ø0,2 a Ø4,5 mm",
+      "homeDescription": "Produzione e fornitura di molle tecniche, elementi in filo, particolari torniti di precisione e nastri a rete metallica per applicazioni industriali in Bulgaria."
+    },
+    "form": {
+      "productType": "Tipo prodotto",
+      "quantity": "Quantità",
+      "wireDiameter": "Diametro filo",
+      "outerDiameter": "Diametro esterno",
+      "windingDirection": "Direzione di avvolgimento",
+      "windingDirectionUnspecified": "Non specificata",
+      "windingDirectionLeft": "Sinistra",
+      "windingDirectionRight": "Destra",
+      "lengthWidth": "Lunghezza / larghezza",
+      "dimensions": "Dimensioni principali",
+      "material": "Materiale",
+      "application": "Applicazione",
+      "company": "Azienda",
+      "country": "Paese",
+      "contactName": "Contatto",
+      "email": "Email",
+      "phone": "Telefono",
+      "language": "Lingua preferita",
+      "file": "Disegni / foto / file",
+      "message": "Informazioni aggiuntive",
+      "consent": "Accetto che i dati siano usati per elaborare questa richiesta.",
+      "mailSubject": "Richiesta",
+      "submit": "Invia richiesta",
+      "success": "Richiesta accettata. Collegare il modulo a un vero email/webhook prima del lancio pubblico.",
+      "error": "Controlla i campi obbligatori e riprova."
+    },
+    "ui": {
+      "brandKicker": "Bulgaria",
+      "primaryNavigation": "Navigazione principale",
+      "menu": "Menu",
+      "capabilityBadge": "capacità",
+      "millimeterWire": "mm filo",
+      "rfqBadge": "Richiesta",
+      "contactBadge": "Contatti",
+      "contactDetails": "Dati di contatto",
+      "address": "Indirizzo",
+      "localBusinessLine": "Produttore di molle a Plovdiv, Bulgaria",
+      "workingHours": "Orario di lavoro",
+      "mapTitle": "Sede Stevini a Plovdiv",
+      "openMap": "Apri in Google Maps",
+      "rfqApiNote": "L'API accetta multipart form data. Configura RFQ_WEBHOOK_URL per inoltrare richieste validate.",
+      "loadingForm": "Caricamento modulo...",
+      "homeBreadcrumb": "Home",
+      "open": "Apri",
+      "productSpecs": "Specifiche",
+      "productUseCases": "Applicazioni",
+      "productMaterials": "Materiali",
+      "productGallery": "Galleria prodotti",
+      "formRequired": "Campo obbligatorio",
+      "formLoading": "...",
+      "rootRedirectTitle": "Reindirizzamento al sito bulgaro...",
+      "rootRedirectLink": "Apri /bg",
+      "close": "Chiudi"
+    },
+    "formPlaceholders": {
+      "quantity": "100 / 500 / 1000",
+      "wireDiameter": "Ø 2.5 mm",
+      "outerDiameter": "DE 28 mm",
+      "lengthWidth": "L / W / passo",
+      "material": "acciaio armonico / inox",
+      "application": "macchina / linea alimentare / ricambio"
+    },
+    "quoteInstructions": {
+      "emailSubject": "Richiesta offerta per molla o componente in filo",
+      "emailCta": "Invia email",
+      "phoneCta": "Chiama",
+      "typeTitle": "Specifiche per tipo",
+      "needed": "Necessario per offerta",
+      "optional": "Utile se noto",
+      "types": [
+        {
+          "title": "Molle a compressione",
+          "intro": "Per molle che lavorano in compressione.",
+          "diagram": {
+            "src": "/images/gallery/springs/Diagrams/compression-spring-diagram.png",
+            "alt": "Schema dimensionale per molla a compressione",
+            "caption": "Misure di riferimento: diametro filo, diametro esterno, diametro interno, lunghezza libera, numero di spire attive e passo.",
+            "width": 400,
+            "height": 400
+          },
+          "needed": [
+            "Quantità e materiale se noto.",
+            "Diametro filo.",
+            "Diametro esterno o interno.",
+            "Lunghezza libera e numero di spire se noto.",
+            "Tipo estremità: aperte, chiuse, rettificate o non rettificate."
+          ],
+          "optional": [
+            "Lunghezza di lavoro, carico, corsa o costante elastica.",
+            "Disegno, foto o campione se disponibile.",
+            "Ambiente di lavoro, temperatura, corrosione o contatto alimentare."
+          ]
+        },
+        {
+          "title": "Molle a trazione",
+          "intro": "Per molle con ganci, occhielli o estremità speciali.",
+          "diagram": {
+            "src": "/images/gallery/springs/Diagrams/extension-spring-diagram.png",
+            "alt": "Schema dimensionale per molla a trazione",
+            "caption": "Misure di riferimento: diametro filo, diametro esterno, lunghezza corpo, lunghezza totale e forma ganci.",
+            "width": 400,
+            "height": 500
+          },
+          "needed": [
+            "Quantità e materiale se noto.",
+            "Diametro filo e diametro esterno del corpo.",
+            "Lunghezza libera o totale.",
+            "Tipo estremità: gancio, occhiello, gancio inglese/tedesco o forma speciale.",
+            "Se le due estremità sono uguali e come sono orientate."
+          ],
+          "optional": [
+            "Tensione iniziale, estensione di lavoro e carico.",
+            "Distanza di montaggio tra i punti di aggancio.",
+            "Disegno, foto o campione se disponibile."
+          ]
+        },
+        {
+          "title": "Molle a torsione",
+          "intro": "Per molle che lavorano a rotazione.",
+          "needed": [
+            "Quantità e materiale se noto.",
+            "Diametro filo e diametro interno/esterno del corpo.",
+            "Direzione di avvolgimento: sinistra o destra.",
+            "Angolo libero tra i bracci.",
+            "Lunghezza, forma e posizione dei bracci."
+          ],
+          "optional": [
+            "Angolo di lavoro e coppia richiesta.",
+            "Diametro albero o perno.",
+            "Disegno, foto o campione se disponibile."
+          ]
+        },
+        {
+          "title": "Elementi in filo",
+          "intro": "Per clip, ganci, fermi, guide e forme speciali.",
+          "needed": [
+            "Disegno, schizzo, foto o campione.",
+            "Quantità.",
+            "Diametro filo.",
+            "Materiale.",
+            "Lunghezze, angoli e raggi di piega principali.",
+            "Punti critici di montaggio o contatto."
+          ],
+          "optional": [
+            "Funzione del pezzo: fissaggio, guida, pressione, sospensione.",
+            "Carico, movimento o elasticità se importanti.",
+            "Finitura, versione sinistra/destra, imballo o marcatura."
+          ]
+        },
+        {
+          "title": "Nastri trasportatori in filo",
+          "intro": "Per linee alimentari, termiche e industriali.",
+          "needed": [
+            "Numero di nastri, larghezza e lunghezza o dimensioni del trasportatore.",
+            "Tipo nastro/rete se noto.",
+            "Passo, diametro filo e diametro aste trasversali se misurabili.",
+            "Materiale e ambiente di lavoro.",
+            "Foto di nastro esistente, azionamento e bordi."
+          ],
+          "optional": [
+            "Velocità, carico e prodotto trasportato.",
+            "Temperatura, lavaggio, contatto alimentare o ambiente chimico.",
+            "Tipo bordo: catena, doppio occhiello, occhiello singolo o altro."
+          ]
+        },
+        {
+          "title": "Particolari torniti",
+          "intro": "Per boccole, perni, alberini e piccoli particolari torniti fino a Ø16 mm.",
+          "needed": [
+            "Disegno.",
+            "Materiale.",
+            "Quantità.",
+            "Dimensioni principali, filetti, fori, gole e smussi.",
+            "Tolleranze critiche."
+          ],
+          "optional": [
+            "Rugosità superficiale, rivestimento o trattamento termico.",
+            "Controllo, certificato materiale o tracciabilità.",
+            "Se è un campione per riparazione o un nuovo pezzo di produzione."
+          ]
+        }
+      ],
+      "template": [
+        "Buongiorno,",
+        "chiedo offerta per: [tipo componente].",
+        "Quantità: [pezzi / serie].",
+        "Materiale: [se noto].",
+        "Dimensioni principali: [diametro filo, diametri, lunghezze, angoli].",
+        "Applicazione: [dove verrà usato].",
+        "File allegati: [disegno / foto / PDF].",
+        "Dati di contatto: [azienda, persona, telefono, paese]."
+      ]
+    },
+    "legal": {
+      "privacy": {
+        "heading": "Trattamento dati",
+        "body": "I dati inviati tramite email o telefono sono utilizzati per gestire richieste industriali, comunicazione tecnica e contatto con il mittente.",
+        "bullets": [
+          "Puoi inviare disegni, foto o informazioni tecniche tramite l'indirizzo email pubblicato.",
+          "Usa i contatti pubblicati per domande su una richiesta inviata."
+        ]
+      },
+      "terms": {
+        "heading": "Condizioni d'uso",
+        "body": "{brand} presenta capacità produttive, gruppi prodotto e modalità per inviare richieste industriali.",
+        "bullets": [
+          "Le informazioni tecniche sono organizzate per tecnici, buyer e team produttivi.",
+          "I prodotti possono essere richiesti da disegno, campione, foto o specifica tecnica."
+        ]
+      }
+    },
+    "faq": {
+      "title": "FAQ",
+      "intro": "Domande frequenti dei buyer su richieste, disegni e gamma prodotti."
+    }
+  },
+  "Configurator": {
+    "controls": {
+      "wire": "Filo Ø",
+      "diameter": "Ø molla",
+      "coils": "Spire",
+      "length": "Lunghezza",
+      "drag": "Trascina il modello. Scroll/pinch per zoom.",
+      "live": "Modello 3D live",
+      "endStyle": "Estremità",
+      "extensionHook": "Tipo gancio",
+      "englishHook": "Gancio inglese",
+      "germanHook": "Gancio tedesco",
+      "torsionHand": "Direzione avvolgimento",
+      "leftHand": "Sinistra",
+      "rightHand": "Destra",
+      "note": "La visualizzazione 3D è solo uno strumento di supporto visivo. I calcoli ingegneristici reali e le tolleranze sono confermati da disegno/specifica."
+    },
+    "types": [
+      {
+        "kind": "compression",
+        "label": "Compressione",
+        "endLabel": "estremità chiuse / rettificate"
+      },
+      {
+        "kind": "extension",
+        "label": "Trazione",
+        "endLabel": "occhielli / ganci alle estremità"
+      },
+      {
+        "kind": "torsion",
+        "label": "Torsione",
+        "endLabel": "bracci di torsione"
+      }
+    ]
+  },
+  "Catalog": {
+    "filters": [
+      {
+        "id": "all",
+        "label": "Tutti"
+      },
+      {
+        "id": "compression",
+        "label": "Compressione"
+      },
+      {
+        "id": "extension",
+        "label": "Trazione"
+      },
+      {
+        "id": "torsion",
+        "label": "Torsione"
+      },
+      {
+        "id": "wire-forms",
+        "label": "Elementi in filo"
+      },
+      {
+        "id": "conveyor-belts",
+        "label": "Nastri"
+      }
+    ],
+    "products": {
+      "compression-springs": {
+        "slug": "molle-a-compressione",
+        "title": "Molle a compressione",
+        "short": "Molle a compressione cilindriche e speciali per meccanismi industriali.",
+        "description": "Produzione su disegno, campione o specifica con dimensioni, materiale, carico e lotto definiti.",
+        "specs": [
+          "Filo Ø0,2–4,5 mm",
+          "Forme cilindriche e speciali",
+          "Pezzi singoli, piccole e medie serie"
+        ],
+        "useCases": [
+          "Costruzione macchine",
+          "Ricambi",
+          "Automazione",
+          "Macchine per imballaggio"
+        ],
+        "materials": [
+          "Acciaio armonico",
+          "Acciaio inox",
+          "Secondo specifica confermata"
+        ],
+        "seoTitle": "Molle a compressione con filo Ø0,2–4,5 mm",
+        "seoDescription": "Produzione di molle a compressione su disegno, campione o specifica per applicazioni industriali."
+      },
+      "extension-springs": {
+        "slug": "molle-a-trazione",
+        "title": "Molle a trazione",
+        "short": "Molle a trazione con ganci, occhielli e terminali speciali.",
+        "description": "Adatte a meccanismi di ritorno, chiusura, tensionamento e compensazione del movimento.",
+        "specs": [
+          "Terminali diversi",
+          "Filo Ø0,2–4,5 mm",
+          "Da campione o disegno"
+        ],
+        "useCases": [
+          "Porte e coperchi",
+          "Meccanismi",
+          "Manutenzione",
+          "Automazione"
+        ],
+        "materials": [
+          "Acciaio armonico",
+          "Acciaio inox",
+          "Su richiesta"
+        ],
+        "seoTitle": "Molle a trazione su disegno",
+        "seoDescription": "Molle a trazione con vari ganci e terminali per meccanismi industriali."
+      },
+      "torsion-springs": {
+        "slug": "molle-a-torsione",
+        "title": "Molle a torsione",
+        "short": "Molle a torsione con bracci e angoli secondo requisiti di progetto.",
+        "description": "Per meccanismi rotanti, cerniere, coperchi, bloccaggio e posizionamento.",
+        "specs": [
+          "Avvolgimento sinistro/destro",
+          "Bracci su disegno",
+          "Controllo quote critiche"
+        ],
+        "useCases": [
+          "Cerniere",
+          "Coperchi",
+          "Meccanismi di serraggio",
+          "Ricambi"
+        ],
+        "materials": [
+          "Acciaio armonico",
+          "Acciaio inox",
+          "In base all'applicazione"
+        ],
+        "seoTitle": "Molle a torsione per l'industria",
+        "seoDescription": "Molle a torsione con bracci personalizzati da disegno o campione."
+      },
+      "wire-forms": {
+        "slug": "elementi-piegati-in-filo",
+        "title": "Elementi piegati in filo",
+        "short": "Piegature tecniche, ganci, clip, staffe e particolari in filo non standard.",
+        "description": "Produzione per assemblaggio, fissaggio, guida e funzioni specifiche in prodotti industriali.",
+        "specs": [
+          "Piegatura su disegno",
+          "Geometria ripetibile",
+          "Da campione o schizzo 3D"
+        ],
+        "useCases": [
+          "Clip di montaggio",
+          "Fermi",
+          "Guide",
+          "Ganci"
+        ],
+        "materials": [
+          "Filo d'acciaio",
+          "Filo inox",
+          "Secondo specifica confermata"
+        ],
+        "seoTitle": "Elementi piegati in filo e dettagli tecnici",
+        "seoDescription": "Produzione di elementi piegati in filo, clip, ganci e particolari da disegno o campione."
+      },
+      "automatic-parts": {
+        "slug": "particolari-torniti-di-precisione",
+        "title": "Particolari torniti di precisione",
+        "short": "Particolari torniti di precisione fino a Ø16 mm per macchine e manutenzione.",
+        "description": "Particolari torniti di precisione fino a Ø16 mm di diametro. Realizzati su disegno per nuove serie produttive, ricambi per macchine e assiemi speciali con tolleranze critiche.",
+        "specs": [
+          "Fino a Ø16 mm di diametro",
+          "Su disegno",
+          "Piccole e medie serie",
+          "Controllo quote funzionali"
+        ],
+        "useCases": [
+          "Macchinari",
+          "Riparazione",
+          "Linee produttive",
+          "Automazione"
+        ],
+        "materials": [
+          "Secondo disegno",
+          "Acciaio",
+          "Acciaio inox se confermato"
+        ],
+        "seoTitle": "Particolari torniti di precisione fino a Ø16 mm",
+        "seoDescription": "Particolari torniti di precisione fino a Ø16 mm su disegno per macchine, riparazione e manutenzione."
+      },
+      "spring-conveyor-belts": {
+        "slug": "nastri-trasportatori-a-rete-metallica",
+        "title": "Nastri trasportatori a rete metallica",
+        "short": "Nastri trasportatori a rete metallica per linee industriali, alimentari e termiche.",
+        "description": "Adatti per trasporto, raffreddamento, asciugatura, lavaggio, cottura e altre applicazioni dopo verifica tecnica.",
+        "specs": [
+          "Larghezza e passo su specifica",
+          "Per linee industriali e alimentari",
+          "Compatibilità secondo condizioni operative"
+        ],
+        "useCases": [
+          "Cottura",
+          "Raffreddamento",
+          "Asciugatura",
+          "Lavaggio",
+          "Trasporto"
+        ],
+        "materials": [
+          "Secondo ambiente",
+          "Acciaio inox dove richiesto",
+          "Dopo conferma tecnica"
+        ],
+        "seoTitle": "Nastri trasportatori a rete metallica per uso industriale e alimentare",
+        "seoDescription": "Nastri a rete metallica per cottura, raffreddamento, asciugatura, lavaggio e trasporto industriale."
+      }
+    }
+  },
+  "Content": {
+    "applications": [
+      {
+        "title": "Macchinari",
+        "text": "Molle, elementi in filo e ricambi per meccanismi, assiemi e macchine speciali."
+      },
+      {
+        "title": "Produzione alimentare",
+        "text": "Nastri e dettagli per cottura, raffreddamento, lavaggio, asciugatura e trasporto dopo conferma tecnica."
+      },
+      {
+        "title": "Macchine per imballaggio",
+        "text": "Molle ed elementi piegati per guida, serraggio, ritorno e posizionamento."
+      },
+      {
+        "title": "Attrezzature agricole",
+        "text": "Parti robuste per manutenzione e sostituzione da campione o disegno."
+      },
+      {
+        "title": "Automazione",
+        "text": "Piccole serie di molle e dettagli in filo per assiemi automatizzati."
+      },
+      {
+        "title": "Riparazione e manutenzione",
+        "text": "Produzione rapida di ricambi non standard da foto, campione o disegno."
+      }
+    ],
+    "about": {
+      "focus": {
+        "title": "Partner tecnico per pezzi speciali",
+        "body": "Quando una molla standard o un ricambio non risolve il problema, Stevini aiuta a trasformare un disegno, un campione o un componente usurato in una produzione ripetibile. Lavoriamo in modo pratico: funzione, ambiente di lavoro, dimensioni critiche e materiale vengono chiariti prima di proporre una soluzione produttiva. Il cliente riceve così non solo un prodotto in filo, ma un pezzo adatto alla macchina, alla linea o alla riparazione."
+      },
+      "request": {
+        "title": "Cosa inviare per un preventivo",
+        "items": [
+          "Invia disegno, foto, campione o una breve descrizione del problema e del punto di montaggio.",
+          "Aggiungi le dimensioni disponibili, materiale, quantità, carico, ambiente di lavoro e punti critici di contatto.",
+          "Verifichiamo la fattibilità e, se necessario, chiariamo i dettagli prima di preparare un preventivo realistico per una piccola o media serie."
+        ]
+      }
+    },
+    "capabilities": [
+      "Produzione B2B per macchine, linee, manutenzione e lotti industriali",
+      "Molle con filo Ø0,2–4,5 mm",
+      "Molle a compressione, trazione e torsione",
+      "Elementi in filo e geometrie non standard",
+      "Particolari torniti di precisione fino a Ø16 mm",
+      "Nastri trasportatori a rete metallica",
+      "Produzione da disegno, campione, foto o specifica",
+      "Piccole e medie serie",
+      "Materiali e finiture solo dopo conferma reale"
+    ],
+    "geoFacts": [
+      "Partner adatto per ingegneri, manutenzione e acquisti quando un pezzo deve adattarsi a una macchina, linea o posizione di montaggio specifica.",
+      "Produzione di molle, elementi in filo, nastri trasportatori e particolari torniti con attenzione alla funzione, non a un catalogo universale.",
+      "Utile per sostituire ricambi usurati, realizzare piccole serie per nuovi prodotti e modificare gruppi esistenti.",
+      "Il processo è diretto: chiarimento tecnico, conferma della fattibilità, produzione e controllo dimensionale prima della consegna."
+    ],
+    "faqs": [
+      {
+        "question": "Qual è il diametro massimo del filo?",
+        "answer": "Il range del diametro del filo è Ø0,2–4,5 mm, a seconda del tipo di molla e della geometria."
+      },
+      {
+        "question": "Possiamo inviare un disegno o una foto?",
+        "answer": "Sì. Invia disegno, foto o file via email; se necessario si può concordare anche un campione fisico."
+      },
+      {
+        "question": "Producete nastri trasportatori a rete metallica?",
+        "answer": "Sì. Stevini produce nastri trasportatori a rete metallica per linee industriali e alimentari dopo verifica tecnica."
+      }
+    ]
+  },
+  "Routes": {
+    "sections": {
+      "products": "prodotti",
+      "applications": "applicazioni",
+      "capabilities": "capacita",
+      "about": "azienda",
+      "contacts": "contatti",
+      "contact": "richiesta-preventivo",
+      "privacy": "privacy",
+      "terms": "termini"
+    }
+  }
+}

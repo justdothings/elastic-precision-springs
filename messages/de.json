@@ -1,0 +1,637 @@
+{
+  "Site": {
+    "nav": {
+      "home": "Startseite",
+      "products": "Produkte",
+      "applications": "Anwendungen",
+      "capabilities": "Fertigung",
+      "about": "Unternehmen",
+      "contacts": "Kontakt",
+      "contact": "Anfrage"
+    },
+    "cta": {
+      "quote": "Zeichnung oder Anfrage senden",
+      "products": "Produkte ansehen",
+      "similar": "Ähnliches Teil anfragen",
+      "upload": "Zeichnung / Foto / Datei hochladen"
+    },
+    "home": {
+      "eyebrow": "Fertigung in Plovdiv, Bulgarien * technische Federn * Drahtbiegeteile",
+      "headline": "Fertigung von Federn und Drahtbiegeteilen von Ø0,2 bis Ø4,5 mm Draht",
+      "subhead": "Fertigung von Druck-, Zug- und Torsionsfedern, Drahtbiegeteilen, Präzisionsdrehteilen und Drahtförderbändern.",
+      "proof": [
+        "Federn aus Draht Ø0,2–4,5 mm",
+        "Nach Zeichnung, Muster oder Spezifikation",
+        "Klein- und Mittelserien",
+        "Anfrage mit Datei und technischen Daten"
+      ],
+      "productTitle": "Produkttypen",
+      "processTitle": "Vom Draht zum fertigen Teil",
+      "process": [
+        "Technische Klärung",
+        "Werkstoffauswahl",
+        "Wickeln / Biegen",
+        "Maßkontrolle",
+        "Fertige Serie"
+      ],
+      "configuratorTitle": "Interaktiver 3D-Federkonfigurator"
+    },
+    "springManufacturer": {
+      "eyebrow": "Kundenspezifische Federfertigung in Bulgarien",
+      "h1": "Federhersteller in Plovdiv, Bulgarien",
+      "intro": "Stevini Springs fertigt technische Federn und Drahtbiegeteile in Plovdiv, Bulgarien. Wir arbeiten nach Zeichnung, Muster oder technischer Spezifikation, wenn Kunden Druckfedern, Zugfedern, Torsionsfedern oder Sonderteile aus Draht für Maschinen und Industrieanlagen benötigen.",
+      "quoteButton": "Anfrage zur Federfertigung senden",
+      "contactLink": "Adresse, Telefonnummer und direkte Kontaktdaten finden Sie auf der Kontaktseite. Für ein Angebot senden Sie eine Zeichnung, ein Musterfoto oder die wichtigsten Abmessungen.",
+      "contactLinkCta": "Kontaktdaten",
+      "overview": [
+        {
+          "title": "Kundenspezifische Federfertigung in Bulgarien",
+          "body": "Wir fertigen Federn in Plovdiv für Unternehmen, die zuverlässige Metallfederkomponenten in kleinen und mittleren Serien benötigen."
+        },
+        {
+          "title": "Federtypen, die wir fertigen",
+          "body": "Die Fertigung umfasst Druckfedern, Zugfedern, Torsionsfedern, Drahtbiegeteile und Sonderteile nach Zeichnung, Muster oder Spezifikation."
+        }
+      ],
+      "typesTitle": "Federtypen, die wir fertigen",
+      "typesIntro": "Fertigung für industrielle Käufer, Maschinenbauer, Reparaturbetriebe und technische Lieferanten.",
+      "types": [
+        { "title": "Druckfedern", "body": "Kundenspezifische Druckfedern für Maschinen, Baugruppen und Ersatzteile." },
+        { "title": "Zugfedern", "body": "Zugfedern mit Haken, Ösen und Sonderenden." },
+        { "title": "Torsionsfedern", "body": "Torsionsfedern mit kundenspezifischen Schenkeln, Winkeln und Wickelrichtung." },
+        { "title": "Drahtbiegeteile und Sonderteile", "body": "Drahtformen, Clips, Halter, Haken und Führungen nach Zeichnung oder Muster." }
+      ],
+      "industriesTitle": "Branchen",
+      "industriesIntro": "Wir arbeiten mit Unternehmen in Bulgarien und Europa.",
+      "industries": ["Maschinenbau", "Landtechnik", "Automotive und Transport", "Verpackungs- und Produktionslinien", "Wartung und Ersatzteile"],
+      "capabilitiesTitle": "Fertigungsmöglichkeiten",
+      "capabilitiesIntro": "Anfragen können auf Zeichnungen, Mustern und technischen Daten basieren.",
+      "capabilities": ["Draht Ø0,2–4,5 mm", "Fertigung nach Zeichnung, Muster oder Spezifikation", "Klein- und Mittelserien", "Druck-, Zug- und Torsionsfedern", "Drahtbiegeteile und Sonderteile"],
+      "whyTitle": "So bearbeiten wir industrielle Anfragen",
+      "whyIntro": "Der Ablauf ist praktisch: Wir klären technische Daten, Anwendung und Menge, bevor wir ein Angebot erstellen.",
+      "why": ["Wir prüfen Zeichnungen, Muster oder Fotos", "Wir klären Werkstoff, Abmessungen und Einsatzbedingungen", "Wir stimmen die Serie auf die benötigte Menge ab", "Wir senden ein klares Angebot und die nächsten Schritte"],
+      "quoteTitle": "Anfrage senden",
+      "quoteBody": "Senden Sie Zeichnung, Abmessungen, Materialanforderungen, Drahtdurchmesser, Federdurchmesser, Menge und Anwendung.",
+      "faqTitle": "Häufige Fragen",
+      "faqs": [
+        { "question": "Fertigen Sie kundenspezifische Federn in Plovdiv?", "answer": "Ja. Wir fertigen Metallfedern in Plovdiv, Bulgarien, nach Zeichnung, Muster oder Spezifikation." },
+        { "question": "Welche Federtypen fertigen Sie?", "answer": "Wir fertigen Druckfedern, Zugfedern, Torsionsfedern, Drahtbiegeteile und Sonderteile." },
+        { "question": "Beliefern Sie Unternehmen außerhalb von Plovdiv?", "answer": "Ja. Wir können Unternehmen in Bulgarien und Europa beliefern." }
+      ]
+    },
+    "pages": {
+      "springManufacturer": {
+        "title": "Federhersteller Plovdiv Bulgarien | Kundenspezifische Federn",
+        "intro": "Stevini fertigt technische Federn und Drahtbiegeteile in Plovdiv nach Zeichnung, Muster oder Spezifikation für industrielle Anwendungen."
+      },
+      "products": {
+        "title": "Produkte",
+        "intro": "Federn, Drahtbiegeteile, Präzisionsdrehteile und Drahtförderbänder nach Zeichnung, Muster oder Spezifikation."
+      },
+      "applications": {
+        "title": "Anwendungen",
+        "intro": "Anwendungen in Maschinenbau, Lebensmittelproduktion, Verpackungslinien, Landtechnik, Automatisierung und Instandhaltung."
+      },
+      "capabilities": {
+        "title": "Fertigungsmöglichkeiten",
+        "intro": "Verifizierbare technische Möglichkeiten: Draht Ø0,2–4,5 mm, kundenspezifische Geometrie, Klein- und Mittelserien."
+      },
+      "about": {
+        "title": "Über 30 Jahre Fertigung technischer Federn und Drahtteile in Bulgarien",
+        "intro": "Stevini ist ein bulgarisches Fertigungsunternehmen mit über 30 Jahren Erfahrung. Wir fertigen Federn, Drahtbiegeteile, Präzisionsdrehteile und Drahtförderbänder für Produktionsteams in Bulgarien und der EU."
+      },
+      "contacts": {
+        "title": "Kontakt",
+        "intro": "Rufen Sie uns unter der angegebenen Telefonnummer an. Für ein genaueres Angebot senden Sie eine Zeichnung oder ein Foto an die angegebene E-Mail-Adresse oder bringen Sie ein Muster vor Ort vorbei."
+      },
+      "contact": {
+        "title": "Anfrage senden",
+        "intro": "Senden Sie eine E-Mail mit Zeichnung, Foto oder kurzer technischer Beschreibung. Die folgende Liste zeigt, welche Angaben für ein genaues Angebot helfen."
+      },
+      "privacy": {
+        "title": "Datenschutz",
+        "intro": "Informationen zur Verarbeitung von Daten bei Kontaktaufnahme und Anfrage."
+      },
+      "terms": {
+        "title": "Impressum",
+        "intro": "Informationen zur Nutzung der Website und der dargestellten Fertigungsinhalte."
+      }
+    },
+    "seo": {
+      "homeTitle": "Fertigung von Federn und Drahtbiegeteilen von Ø0,2 bis Ø4,5 mm Draht",
+      "homeDescription": "Fertigung und Lieferung technischer Federn, Drahtbiegeteile, Präzisionsdrehteile und Drahtförderbänder für industrielle Anwendungen in Bulgarien."
+    },
+    "form": {
+      "productType": "Produkttyp",
+      "quantity": "Menge",
+      "wireDiameter": "Drahtdurchmesser",
+      "outerDiameter": "Außendurchmesser",
+      "windingDirection": "Wickelrichtung",
+      "windingDirectionUnspecified": "Nicht angegeben",
+      "windingDirectionLeft": "Linksgängig",
+      "windingDirectionRight": "Rechtsgängig",
+      "lengthWidth": "Länge / Breite",
+      "dimensions": "Hauptabmessungen",
+      "material": "Werkstoff",
+      "application": "Anwendung",
+      "company": "Unternehmen",
+      "country": "Land",
+      "contactName": "Kontaktperson",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "language": "Bevorzugte Sprache",
+      "file": "Zeichnungen / Fotos / Dateien",
+      "message": "Zusätzliche Informationen",
+      "consent": "Ich stimme zu, dass die Daten zur Bearbeitung der Anfrage verwendet werden.",
+      "mailSubject": "Anfrage",
+      "submit": "Anfrage senden",
+      "success": "Anfrage angenommen. Vor dem öffentlichen Launch mit echtem E-Mail/Webhook verbinden.",
+      "error": "Pflichtfelder prüfen und erneut versuchen."
+    },
+    "ui": {
+      "brandKicker": "Bulgaria",
+      "primaryNavigation": "Hauptnavigation",
+      "menu": "Menü",
+      "capabilityBadge": "Fertigung",
+      "millimeterWire": "mm Draht",
+      "rfqBadge": "Anfrage",
+      "contactBadge": "Kontakt",
+      "contactDetails": "Kontaktdaten",
+      "address": "Adresse",
+      "localBusinessLine": "Federhersteller in Plovdiv, Bulgarien",
+      "workingHours": "Öffnungszeiten",
+      "mapTitle": "Stevini-Standort in Plovdiv",
+      "openMap": "In Google Maps öffnen",
+      "rfqApiNote": "Die API akzeptiert multipart form data. Konfigurieren Sie RFQ_WEBHOOK_URL, um validierte Anfragen weiterzuleiten.",
+      "loadingForm": "Formular wird geladen...",
+      "homeBreadcrumb": "Startseite",
+      "open": "Öffnen",
+      "productSpecs": "Spezifikationen",
+      "productUseCases": "Anwendungen",
+      "productMaterials": "Werkstoffe",
+      "productGallery": "Produktgalerie",
+      "formRequired": "Pflichtfeld",
+      "formLoading": "...",
+      "rootRedirectTitle": "Weiterleitung zur bulgarischen Website...",
+      "rootRedirectLink": "Öffne /bg",
+      "close": "Schließen"
+    },
+    "formPlaceholders": {
+      "quantity": "100 / 500 / 1000",
+      "wireDiameter": "Ø 2.5 mm",
+      "outerDiameter": "AD 28 mm",
+      "lengthWidth": "L / B / Teilung",
+      "material": "Federstahl / Edelstahl",
+      "application": "Maschine / Lebensmittelanlage / Ersatzteil"
+    },
+    "quoteInstructions": {
+      "emailSubject": "Anfrage für Feder oder Drahtteil",
+      "emailCta": "E-Mail senden",
+      "phoneCta": "Anrufen",
+      "typeTitle": "Spezifikationen nach Typ",
+      "needed": "Für Angebot nötig",
+      "optional": "Hilfreich, falls bekannt",
+      "types": [
+        {
+          "title": "Druckfedern",
+          "intro": "Für Federn, die auf Druck arbeiten.",
+          "diagram": {
+            "src": "/images/gallery/springs/Diagrams/compression-spring-diagram.png",
+            "alt": "Messschema für Druckfeder",
+            "caption": "Referenzmaße: Drahtdurchmesser, Außendurchmesser, Innendurchmesser, freie Länge, Anzahl federnder Windungen und Steigung.",
+            "width": 400,
+            "height": 400
+          },
+          "needed": [
+            "Menge und Werkstoff, falls bekannt.",
+            "Drahtdurchmesser.",
+            "Außen- oder Innendurchmesser.",
+            "Freie Länge und Windungszahl, falls bekannt.",
+            "Enden: offen, geschlossen, geschliffen oder ungeschliffen."
+          ],
+          "optional": [
+            "Arbeitslänge, Kraft, Hub oder Federrate.",
+            "Zeichnung, Foto oder Muster, falls vorhanden.",
+            "Umgebung, Temperatur, Korrosion oder Lebensmittelkontakt."
+          ]
+        },
+        {
+          "title": "Zugfedern",
+          "intro": "Für Federn mit Haken, Ösen oder Sonderenden.",
+          "diagram": {
+            "src": "/images/gallery/springs/Diagrams/extension-spring-diagram.png",
+            "alt": "Messschema für Zugfeder",
+            "caption": "Referenzmaße: Drahtdurchmesser, Außendurchmesser, Körperlänge, Gesamtlänge und Hakenform.",
+            "width": 400,
+            "height": 500
+          },
+          "needed": [
+            "Menge und Werkstoff, falls bekannt.",
+            "Drahtdurchmesser und Außendurchmesser des Körpers.",
+            "Freie oder Gesamtlänge.",
+            "Endtyp: Haken, Öse, englischer/deutscher Haken oder Sonderform.",
+            "Ob beide Enden gleich sind und wie sie ausgerichtet sind."
+          ],
+          "optional": [
+            "Vorspannung, Arbeitsweg und Kraft.",
+            "Montageabstand zwischen Befestigungspunkten.",
+            "Zeichnung, Foto oder Muster, falls vorhanden."
+          ]
+        },
+        {
+          "title": "Torsionsfedern",
+          "intro": "Für Federn, die durch Drehung arbeiten.",
+          "needed": [
+            "Menge und Werkstoff, falls bekannt.",
+            "Drahtdurchmesser und Innen-/Außendurchmesser des Körpers.",
+            "Wickelrichtung: links oder rechts.",
+            "Freier Winkel zwischen den Schenkeln.",
+            "Schenkellänge, Form und Position."
+          ],
+          "optional": [
+            "Arbeitswinkel und benötigtes Drehmoment.",
+            "Wellen- oder Dorndurchmesser.",
+            "Zeichnung, Foto oder Muster, falls vorhanden."
+          ]
+        },
+        {
+          "title": "Drahtbiegeteile",
+          "intro": "Für Clips, Haken, Halter, Führungen und Sonderformen.",
+          "needed": [
+            "Zeichnung, Skizze, Foto oder Muster.",
+            "Menge.",
+            "Drahtdurchmesser.",
+            "Werkstoff.",
+            "Wichtige Längen, Winkel und Biegeradien.",
+            "Kritische Montage- oder Kontaktpunkte."
+          ],
+          "optional": [
+            "Funktion des Teils: Halten, Führen, Drücken, Aufhängen.",
+            "Belastung, Bewegung oder Federwirkung, falls wichtig.",
+            "Oberfläche, Links-/Rechtsversion, Verpackung oder Markierung."
+          ]
+        },
+        {
+          "title": "Drahtförderbänder",
+          "intro": "Für Lebensmittel-, Wärme- und Industrielinien.",
+          "needed": [
+            "Anzahl der Bänder, Bandbreite und Länge oder Förderermaße.",
+            "Band-/Gewebetyp, falls bekannt.",
+            "Teilung, Drahtdurchmesser und Querstabdurchmesser, falls messbar.",
+            "Werkstoff und Betriebsumgebung.",
+            "Fotos von bestehendem Band, Antrieb und Kantenausführung."
+          ],
+          "optional": [
+            "Geschwindigkeit, Last und transportiertes Produkt.",
+            "Temperatur, Waschen, Lebensmittelkontakt oder chemische Umgebung.",
+            "Kante: Kette, Doppelschlaufe, Einzelschlaufe oder andere Ausführung."
+          ]
+        },
+        {
+          "title": "Drehteile",
+          "intro": "Für Buchsen, Stifte, Wellen und kleine Drehteile bis Ø16 mm.",
+          "needed": [
+            "Zeichnung.",
+            "Werkstoff.",
+            "Menge.",
+            "Hauptmaße, Gewinde, Bohrungen, Nuten und Fasen.",
+            "Kritische Toleranzen."
+          ],
+          "optional": [
+            "Oberflächenrauheit, Beschichtung oder Wärmebehandlung.",
+            "Prüfung, Materialzertifikat oder Rückverfolgbarkeit.",
+            "Ob es sich um ein Reparaturmuster oder ein neues Produktionsteil handelt."
+          ]
+        }
+      ],
+      "template": [
+        "Guten Tag,",
+        "bitte erstellen Sie ein Angebot für: [Teiletyp].",
+        "Menge: [Stück / Serie].",
+        "Werkstoff: [falls bekannt].",
+        "Hauptmaße: [Drahtdurchmesser, Durchmesser, Längen, Winkel].",
+        "Anwendung: [wo das Teil eingesetzt wird].",
+        "Anhänge: [Zeichnung / Foto / PDF].",
+        "Kontaktdaten: [Firma, Person, Telefon, Land]."
+      ]
+    },
+    "legal": {
+      "privacy": {
+        "heading": "Datenverarbeitung",
+        "body": "Per E-Mail oder Telefon übermittelte Daten werden zur Bearbeitung industrieller Anfragen, technischen Kommunikation und Kontaktaufnahme verwendet.",
+        "bullets": [
+          "Sie können Zeichnungen, Fotos oder technische Informationen über die veröffentlichte E-Mail-Adresse senden.",
+          "Nutzen Sie die veröffentlichten Kontakte für Fragen zu einer gesendeten Anfrage."
+        ]
+      },
+      "terms": {
+        "heading": "Nutzungsbedingungen",
+        "body": "{brand} präsentiert Fertigungsmöglichkeiten, Produktgruppen und Wege zur Übermittlung industrieller Anfragen.",
+        "bullets": [
+          "Die technischen Informationen sind für Technik, Einkauf und Produktionsteams strukturiert.",
+          "Produkte können nach Zeichnung, Muster, Foto oder technischer Spezifikation angefragt werden."
+        ]
+      }
+    },
+    "faq": {
+      "title": "FAQ",
+      "intro": "Häufige Einkäuferfragen zu Anfragen, Zeichnungen und Produktspektrum."
+    }
+  },
+  "Configurator": {
+    "controls": {
+      "wire": "Draht Ø",
+      "diameter": "Feder Ø",
+      "coils": "Windungen",
+      "length": "Länge",
+      "drag": "Modell ziehen. Scrollen/Pinch zum Zoomen.",
+      "live": "Live-3D-Modell",
+      "endStyle": "Endform",
+      "extensionHook": "Hakentyp",
+      "englishHook": "Englischer Haken",
+      "germanHook": "Deutscher Haken",
+      "torsionHand": "Wicklungsrichtung",
+      "leftHand": "Links",
+      "rightHand": "Rechts",
+      "note": "Die 3D-Visualisierung ist nur ein visuelles Hilfsmittel. Tatsächliche technische Berechnungen und Toleranzen werden nach Zeichnung/Spezifikation bestätigt."
+    },
+    "types": [
+      {
+        "kind": "compression",
+        "label": "Druck",
+        "endLabel": "geschlossene / geschliffene Enden"
+      },
+      {
+        "kind": "extension",
+        "label": "Zug",
+        "endLabel": "Ösen / Haken an beiden Enden"
+      },
+      {
+        "kind": "torsion",
+        "label": "Torsion",
+        "endLabel": "Schenkelarme"
+      }
+    ]
+  },
+  "Catalog": {
+    "filters": [
+      {
+        "id": "all",
+        "label": "Alle"
+      },
+      {
+        "id": "compression",
+        "label": "Druck"
+      },
+      {
+        "id": "extension",
+        "label": "Zug"
+      },
+      {
+        "id": "torsion",
+        "label": "Torsion"
+      },
+      {
+        "id": "wire-forms",
+        "label": "Drahtbiegeteile"
+      },
+      {
+        "id": "conveyor-belts",
+        "label": "Förderbänder"
+      }
+    ],
+    "products": {
+      "compression-springs": {
+        "slug": "druckfedern",
+        "title": "Druckfedern",
+        "short": "Präzise zylindrische und spezielle Druckfedern für industrielle Mechanismen.",
+        "description": "Fertigung nach Zeichnung, Muster oder Spezifikation mit klaren Angaben zu Abmessungen, Werkstoff, Belastung und Losgröße.",
+        "specs": [
+          "Draht Ø0,2–4,5 mm",
+          "Zylindrische und Sonderformen",
+          "Einzelteile, Klein- und Mittelserien"
+        ],
+        "useCases": [
+          "Maschinenbau",
+          "Ersatzteile",
+          "Automatisierung",
+          "Verpackungsmaschinen"
+        ],
+        "materials": [
+          "Federstahl",
+          "Edelstahl",
+          "Nach bestätigter Spezifikation"
+        ],
+        "seoTitle": "Druckfedern aus Draht Ø0,2–4,5 mm",
+        "seoDescription": "Fertigung von Druckfedern nach Zeichnung, Muster oder Spezifikation für industrielle Anwendungen."
+      },
+      "extension-springs": {
+        "slug": "zugfedern",
+        "title": "Zugfedern",
+        "short": "Zugfedern mit Haken, Ösen und kundenspezifischen Endformen.",
+        "description": "Geeignet für Rückstell-, Schließ-, Spann- und Bewegungsausgleichsmechanismen.",
+        "specs": [
+          "Verschiedene Endformen",
+          "Draht Ø0,2–4,5 mm",
+          "Nach Muster oder Zeichnung"
+        ],
+        "useCases": [
+          "Türen und Klappen",
+          "Mechanismen",
+          "Instandhaltung",
+          "Automation"
+        ],
+        "materials": [
+          "Federstahl",
+          "Edelstahl",
+          "Auf Anfrage"
+        ],
+        "seoTitle": "Zugfedern nach Zeichnung",
+        "seoDescription": "Zugfedern mit unterschiedlichen Haken und Endformen für industrielle Mechanismen."
+      },
+      "torsion-springs": {
+        "slug": "torsionsfedern",
+        "title": "Torsionsfedern",
+        "short": "Torsionsfedern mit Schenkeln und Winkeln nach konstruktiver Vorgabe.",
+        "description": "Für Drehmechanismen, Scharniere, Klappen, Klemmung und Positionierung.",
+        "specs": [
+          "Links-/Rechtswicklung",
+          "Schenkel nach Zeichnung",
+          "Kontrolle kritischer Maße"
+        ],
+        "useCases": [
+          "Scharniere",
+          "Klappen",
+          "Klemmmechanismen",
+          "Ersatzteile"
+        ],
+        "materials": [
+          "Federstahl",
+          "Edelstahl",
+          "Anwendungsspezifisch"
+        ],
+        "seoTitle": "Torsionsfedern für die Industrie",
+        "seoDescription": "Torsionsfedern mit kundenspezifischen Schenkeln nach Zeichnung oder Muster."
+      },
+      "wire-forms": {
+        "slug": "drahtbiegeteile",
+        "title": "Drahtbiegeteile",
+        "short": "Technische Biegungen, Haken, Klammern, Bügel und Sonderdrahtteile.",
+        "description": "Fertigung für Montage, Fixierung, Führung und spezifische Funktionen in Industrieprodukten.",
+        "specs": [
+          "Biegen nach Zeichnung",
+          "Wiederholbare Geometrie",
+          "Nach Muster oder 3D-Skizze"
+        ],
+        "useCases": [
+          "Montageklammern",
+          "Halter",
+          "Führungen",
+          "Haken"
+        ],
+        "materials": [
+          "Stahldraht",
+          "Edelstahldraht",
+          "Nach bestätigter Spezifikation"
+        ],
+        "seoTitle": "Drahtbiegeteile und technische Drahtformen",
+        "seoDescription": "Fertigung von Drahtbiegeteilen, Klammern, Haken und Details nach Zeichnung oder Muster."
+      },
+      "automatic-parts": {
+        "slug": "praezisionsdrehteile",
+        "title": "Präzisionsdrehteile",
+        "short": "Präzisionsdrehteile bis Ø16 mm für Maschinen und Instandhaltung.",
+        "description": "Präzisionsdrehteile bis Ø16 mm Durchmesser. Nach Zeichnung gefertigt für neue Produktionsserien, Maschinenersatzteile und Sonderbaugruppen mit kritischen Toleranzen.",
+        "specs": [
+          "Bis Ø16 mm Durchmesser",
+          "Nach Zeichnung",
+          "Klein- und Mittelserien",
+          "Kontrolle funktionaler Maße"
+        ],
+        "useCases": [
+          "Maschinenbau",
+          "Reparatur",
+          "Produktionslinien",
+          "Automatisierung"
+        ],
+        "materials": [
+          "Gemäß Zeichnung",
+          "Stahl",
+          "Edelstahl nach Bestätigung"
+        ],
+        "seoTitle": "Präzisionsdrehteile bis Ø16 mm",
+        "seoDescription": "Präzisionsdrehteile bis Ø16 mm nach Zeichnung für Maschinen, Reparatur und Instandhaltung."
+      },
+      "spring-conveyor-belts": {
+        "slug": "drahtfoerderbaender",
+        "title": "Drahtförderbänder",
+        "short": "Drahtförderbänder für Industrie-, Lebensmittel- und Wärmelinien.",
+        "description": "Geeignet für Transport, Kühlen, Trocknen, Waschen, Backen und weitere Anwendungen nach technischer Klärung.",
+        "specs": [
+          "Breite und Teilung nach Spezifikation",
+          "Für Industrie- und Lebensmittellinien",
+          "Kompatibilität nach Einsatzbedingungen"
+        ],
+        "useCases": [
+          "Backen",
+          "Kühlen",
+          "Trocknen",
+          "Waschen",
+          "Transport"
+        ],
+        "materials": [
+          "Nach Umgebung",
+          "Edelstahl bei Bedarf",
+          "Nach technischer Bestätigung"
+        ],
+        "seoTitle": "Drahtförderbänder für Industrie und Lebensmittel",
+        "seoDescription": "Drahtförderbänder für Backen, Kühlen, Trocknen, Waschen und industriellen Transport."
+      }
+    }
+  },
+  "Content": {
+    "applications": [
+      {
+        "title": "Maschinenbau",
+        "text": "Federn, Drahtbiegeteile und Ersatzteile für Mechanismen, Baugruppen und Sondermaschinen."
+      },
+      {
+        "title": "Lebensmittelproduktion",
+        "text": "Bänder und Details für Backen, Kühlen, Waschen, Trocknen und Transport nach technischer Bestätigung."
+      },
+      {
+        "title": "Verpackungsmaschinen",
+        "text": "Federn und Biegeteile zum Führen, Klemmen, Rückstellen und Positionieren."
+      },
+      {
+        "title": "Landtechnik",
+        "text": "Robuste Teile für Wartung und Austausch nach Muster oder Zeichnung."
+      },
+      {
+        "title": "Automatisierung",
+        "text": "Kleinserien von Federn und Drahtteilen für automatisierte Baugruppen."
+      },
+      {
+        "title": "Reparatur und Instandhaltung",
+        "text": "Schnelle Fertigung von Sonderersatzteilen nach Foto, Muster oder Zeichnung."
+      }
+    ],
+    "about": {
+      "focus": {
+        "title": "Technischer Partner für Sonderteile",
+        "body": "Wenn eine Standardfeder oder ein Ersatzteil die Aufgabe nicht löst, hilft Stevini dabei, aus Zeichnung, Muster oder verschlissenem Bauteil eine wiederholbare Fertigung zu machen. Wir gehen praktisch vor: Funktion, Einsatzumgebung, kritische Maße und Werkstoff werden geklärt, bevor wir eine Ausführung vorschlagen. So erhält der Kunde nicht nur ein Drahtprodukt, sondern ein Teil, das zur Maschine, Linie oder Reparatur passt."
+      },
+      "request": {
+        "title": "Was Sie für ein Angebot senden sollten",
+        "items": [
+          "Senden Sie Zeichnung, Foto, Muster oder eine kurze Beschreibung des Problems und der Einbausituation.",
+          "Ergänzen Sie vorhandene Maße, Werkstoff, Menge, Belastung, Einsatzumgebung und kritische Kontaktpunkte.",
+          "Wir prüfen die Machbarkeit und klären bei Bedarf Details, bevor wir ein realistisches Angebot für eine Klein- oder Mittelserie erstellen."
+        ]
+      }
+    },
+    "capabilities": [
+      "B2B-Fertigung für Maschinen, Linien, Instandhaltung und Industriechargen",
+      "Federn aus Draht Ø0,2–4,5 mm",
+      "Druck-, Zug- und Torsionsfedern",
+      "Drahtbiegeteile und Sondergeometrien",
+      "Präzisionsdrehteile bis Ø16 mm",
+      "Drahtförderbänder",
+      "Fertigung nach Zeichnung, Muster, Foto oder Spezifikation",
+      "Klein- und Mittelserien",
+      "Werkstoffe und Oberflächen nur nach realer Bestätigung"
+    ],
+    "geoFacts": [
+      "Ein geeigneter Partner für Ingenieure, Instandhaltung und Einkauf, wenn ein Teil zu einer konkreten Maschine, Linie oder Einbaustelle passen muss.",
+      "Fertigung von Federn, Drahtbiegeteilen, Förderbändern und Präzisionsdrehteilen mit Fokus auf Funktion statt Universalkatalog.",
+      "Hilfreich bei Ersatz für verschlissene Teile, Kleinserien für neue Produkte und Anpassungen an bestehenden Baugruppen.",
+      "Der Ablauf ist direkt: technische Klärung, Bestätigung der Machbarkeit, Fertigung und Maßkontrolle vor Übergabe."
+    ],
+    "faqs": [
+      {
+        "question": "Welcher maximale Drahtdurchmesser ist möglich?",
+        "answer": "Der Drahtdurchmesser reicht von Ø0,2 bis Ø4,5 mm, abhängig von Federtyp und Geometrie."
+      },
+      {
+        "question": "Können wir Zeichnung oder Foto senden?",
+        "answer": "Ja. Senden Sie Zeichnung, Foto oder Datei per E-Mail; bei Bedarf kann auch ein Muster abgestimmt werden."
+      },
+      {
+        "question": "Fertigen Sie Drahtförderbänder?",
+        "answer": "Ja. Stevini fertigt Drahtförderbänder für Industrie- und Lebensmittellinien nach technischer Klärung."
+      }
+    ]
+  },
+  "Routes": {
+    "sections": {
+      "products": "produkte",
+      "applications": "anwendungen",
+      "capabilities": "fertigung",
+      "about": "unternehmen",
+      "contacts": "kontakt",
+      "contact": "anfrage",
+      "privacy": "datenschutz",
+      "terms": "impressum"
+    }
+  }
+}

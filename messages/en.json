@@ -1,0 +1,673 @@
+{
+  "Site": {
+    "nav": {
+      "home": "Home",
+      "products": "Products",
+      "applications": "Applications",
+      "capabilities": "Capabilities",
+      "about": "About",
+      "contacts": "Contacts",
+      "contact": "RFQ"
+    },
+    "cta": {
+      "quote": "Send drawing or RFQ",
+      "products": "View products",
+      "similar": "Request similar part",
+      "upload": "Upload drawing / photo / file"
+    },
+    "home": {
+      "eyebrow": "Manufacturing in Plovdiv, Bulgaria * technical springs * wire forms",
+      "headline": "Manufacturing springs and wire forms from Ø0.2 to Ø4.5 mm wire",
+      "subhead": "Manufacturing compression, extension, and torsion springs, wire forms, precision turned parts, and wire conveyor belts.",
+      "proof": [
+        "Springs from wire Ø0.2–4.5 mm",
+        "By drawing, sample, or specification",
+        "Small and medium batches",
+        "RFQ with file and technical data"
+      ],
+      "productTitle": "Product types",
+      "processTitle": "From wire to finished detail",
+      "process": [
+        "Technical clarification",
+        "Material selection",
+        "Coiling / bending",
+        "Dimension control",
+        "Finished batch"
+      ],
+      "configuratorTitle": "Interactive 3D spring configurator"
+    },
+    "springManufacturer": {
+      "eyebrow": "Custom spring production in Bulgaria",
+      "h1": "Spring Manufacturer in Plovdiv, Bulgaria",
+      "intro": "Stevini Springs manufactures technical springs and wire forms in Plovdiv, Bulgaria. We work from drawings, samples or technical specifications when customers need compression springs, extension springs, torsion springs or non-standard wire parts for machinery and industrial equipment.",
+      "quoteButton": "Request a Spring Manufacturing Quote",
+      "contactLink": "For address, phone and direct contact details, use the Contacts page. For a quotation, send a drawing, sample photo or basic dimensions.",
+      "contactLinkCta": "Contact Details",
+      "typesTitle": "Types of Springs We Manufacture",
+      "typesIntro": "Core spring production for industrial buyers, machine builders, repair companies and technical suppliers.",
+      "types": [
+        {
+          "title": "Compression Springs",
+          "body": "Custom compression springs for machinery, assemblies, spare parts and industrial equipment."
+        },
+        {
+          "title": "Extension Springs",
+          "body": "Extension springs with hooks, loops and custom end forms for controlled pulling force."
+        },
+        {
+          "title": "Torsion Springs",
+          "body": "Torsion springs with custom legs, angles and winding direction for rotating mechanisms."
+        },
+        {
+          "title": "Wire Forms and Special Parts",
+          "body": "Wire forms, clips, retainers, hooks, guides and other special wire parts by drawing or sample."
+        }
+      ],
+      "industriesTitle": "Industries We Serve",
+      "industriesIntro": "A quick orientation for common applications. Exact details are clarified from drawings, samples and the working environment.",
+      "industries": [
+        "Industrial machinery and equipment",
+        "Agricultural machines",
+        "Automotive and transport applications",
+        "Packaging, automation and production lines",
+        "Maintenance, repairs and spare parts"
+      ],
+      "capabilitiesTitle": "Spring Manufacturing Capabilities",
+      "capabilitiesIntro": "Quote requests can be based on exact dimensions, material requirements and quantities.",
+      "capabilities": [
+        "Wire Ø0.2–4.5 mm",
+        "Springs made to order by drawing, sample or specification",
+        "Small and medium production batches",
+        "Compression, extension and torsion spring production",
+        "Wire forms and non-standard spring parts"
+      ],
+      "whyTitle": "How We Handle Industrial Spring Requests",
+      "whyIntro": "The process is practical: we clarify the technical data, application and quantity before preparing a quotation.",
+      "why": [
+        "We review drawings, samples or photos",
+        "We clarify material, dimensions and working conditions",
+        "We match the production batch to the required quantity",
+        "We provide a clear quotation and next steps"
+      ],
+      "quoteTitle": "Request a Quote",
+      "quoteBody": "To request a quote, send us your drawing, dimensions, material requirements, wire diameter, spring diameter, quantity and application details.",
+      "faqTitle": "Frequently Asked Questions",
+      "faqs": [
+        {
+          "question": "Do you manufacture custom springs in Plovdiv?",
+          "answer": "Yes. We manufacture custom metal springs in Plovdiv, Bulgaria based on drawings, samples or technical specifications."
+        },
+        {
+          "question": "What types of springs do you produce?",
+          "answer": "We produce compression springs, extension springs, torsion springs, wire forms and custom spring parts."
+        },
+        {
+          "question": "Can you manufacture springs for industrial machines?",
+          "answer": "Yes. We manufacture springs for machinery, industrial equipment, repairs, agriculture, automotive and other technical applications."
+        },
+        {
+          "question": "What information do you need for a quote?",
+          "answer": "Send the spring type, dimensions, wire diameter, material, quantity, drawing or sample, and application details."
+        },
+        {
+          "question": "Do you supply companies outside Plovdiv?",
+          "answer": "Yes. We can supply companies across Bulgaria and Europe."
+        }
+      ]
+    },
+    "pages": {
+      "springManufacturer": {
+        "title": "Spring Manufacturer Plovdiv Bulgaria | Custom Industrial Springs",
+        "intro": "Stevini manufactures technical springs and wire forms in Plovdiv from drawings, samples or specifications for industrial applications."
+      },
+      "products": {
+        "title": "Products",
+        "intro": "Springs, wire forms, precision turned parts, and wire conveyor belts by drawing, sample, or specification."
+      },
+      "applications": {
+        "title": "Applications",
+        "intro": "Applications in machinery, food processing, packaging lines, agricultural equipment, automation, and maintenance."
+      },
+      "capabilities": {
+        "title": "Manufacturing capabilities",
+        "intro": "Focused, verifiable technical capabilities: wire Ø0.2–4.5 mm, custom geometry, small and medium batches."
+      },
+      "about": {
+        "title": "Over 30 years manufacturing technical springs and wire parts in Bulgaria",
+        "intro": "Stevini is a Bulgarian manufacturing company with over 30 years of experience. We produce springs, wire forms, precision turned parts, and wire conveyor belts for production teams across Bulgaria and the EU."
+      },
+      "contacts": {
+        "title": "Contacts",
+        "intro": "Call us at the listed phone number. For a more accurate quote, send a drawing or photo to the listed email address, or bring a sample to us on site."
+      },
+      "contact": {
+        "title": "Request a quote",
+        "intro": "Send an email with a drawing, photo, or short technical description. The checklist below shows what information helps us quote accurately."
+      },
+      "privacy": {
+        "title": "Privacy",
+        "intro": "Information about data processing when contacting the company or sending an RFQ."
+      },
+      "terms": {
+        "title": "Terms",
+        "intro": "Information about using the website and the manufacturing content presented."
+      }
+    },
+    "seo": {
+      "homeTitle": "Spring Manufacturer in Plovdiv, Bulgaria | Custom Metal Springs",
+      "homeDescription": "Custom spring manufacturer in Plovdiv, Bulgaria. We produce compression springs, extension springs, torsion springs and wire forms for industrial clients."
+    },
+    "form": {
+      "productType": "Product type",
+      "quantity": "Quantity",
+      "wireDiameter": "Wire diameter",
+      "outerDiameter": "Outer diameter",
+      "windingDirection": "Winding direction",
+      "windingDirectionUnspecified": "Not specified",
+      "windingDirectionLeft": "Left-hand",
+      "windingDirectionRight": "Right-hand",
+      "lengthWidth": "Length / width",
+      "dimensions": "Main dimensions",
+      "material": "Material",
+      "application": "Application",
+      "company": "Company",
+      "country": "Country",
+      "contactName": "Contact person",
+      "email": "Email",
+      "phone": "Phone",
+      "language": "Preferred language",
+      "file": "Drawings / photos / files",
+      "message": "Additional information",
+      "consent": "I agree that the data can be used to process this inquiry.",
+      "mailSubject": "RFQ request",
+      "submit": "Send RFQ",
+      "success": "RFQ accepted. Connect the form to a real email/webhook before public launch.",
+      "error": "Check required fields and try again."
+    },
+    "ui": {
+      "brandKicker": "Bulgaria",
+      "primaryNavigation": "Primary navigation",
+      "menu": "Menu",
+      "capabilityBadge": "capabilities",
+      "millimeterWire": "mm wire",
+      "rfqBadge": "RFQ",
+      "contactBadge": "Contacts",
+      "contactDetails": "Contact details",
+      "address": "Address",
+      "localBusinessLine": "Spring manufacturer in Plovdiv, Bulgaria",
+      "workingHours": "Working hours",
+      "mapTitle": "Stevini location in Plovdiv",
+      "openMap": "Open in Google Maps",
+      "rfqApiNote": "Accepted by the API as multipart form data. Configure RFQ_WEBHOOK_URL to forward validated requests.",
+      "loadingForm": "Loading form...",
+      "homeBreadcrumb": "Home",
+      "open": "Open",
+      "productSpecs": "Specs",
+      "productUseCases": "Use cases",
+      "productMaterials": "Materials",
+      "productGallery": "Product gallery",
+      "formRequired": "Required",
+      "formLoading": "...",
+      "rootRedirectTitle": "Redirecting to Bulgarian site...",
+      "rootRedirectLink": "Open /bg",
+      "close": "Close"
+    },
+    "formPlaceholders": {
+      "quantity": "100 / 500 / 1000",
+      "wireDiameter": "Ø 2.5 mm",
+      "outerDiameter": "OD 28 mm",
+      "lengthWidth": "L / W / pitch",
+      "material": "spring steel / stainless",
+      "application": "machine / food line / spare part"
+    },
+    "quoteInstructions": {
+      "emailSubject": "Quote request for spring or wire part",
+      "emailCta": "Send email",
+      "phoneCta": "Call",
+      "typeTitle": "Specifications by type",
+      "needed": "Needed for quoting",
+      "optional": "Useful if known",
+      "types": [
+        {
+          "title": "Compression springs",
+          "intro": "For springs working under compression.",
+          "diagram": {
+            "src": "/images/gallery/springs/Diagrams/compression-spring-diagram.png",
+            "alt": "Compression spring measurement diagram",
+            "caption": "Reference measurements: wire diameter, outside diameter, inside diameter, free length, number of active coils, and pitch.",
+            "width": 400,
+            "height": 400
+          },
+          "needed": [
+            "Quantity and material if known.",
+            "Wire diameter.",
+            "Outside or inside diameter.",
+            "Free length and number of coils if known.",
+            "End type: open, closed, ground, or unground."
+          ],
+          "optional": [
+            "Working length, load, travel, or spring rate.",
+            "Drawing, photo, or sample if available.",
+            "Operating environment, temperature, corrosion, or food contact."
+          ]
+        },
+        {
+          "title": "Extension springs",
+          "intro": "For springs with hooks, loops, or other end forms.",
+          "diagram": {
+            "src": "/images/gallery/springs/Diagrams/extension-spring-diagram.png",
+            "alt": "Extension spring measurement diagram",
+            "caption": "Reference measurements: wire diameter, outside diameter, body length, overall length, and hook form.",
+            "width": 400,
+            "height": 500
+          },
+          "needed": [
+            "Quantity and material if known.",
+            "Wire diameter and body outside diameter.",
+            "Free or overall length.",
+            "End type: hook, loop, English/German hook, or special form.",
+            "Whether both ends are identical and how they are oriented."
+          ],
+          "optional": [
+            "Initial tension, working extension, and load.",
+            "Mounting distance between attachment points.",
+            "Drawing, photo, or sample if available."
+          ]
+        },
+        {
+          "title": "Torsion springs",
+          "intro": "For springs working by rotation.",
+          "needed": [
+            "Quantity and material if known.",
+            "Wire diameter and inside/outside body diameter.",
+            "Winding direction: left-hand or right-hand.",
+            "Free angle between the legs.",
+            "Leg length, shape, and position."
+          ],
+          "optional": [
+            "Working angle and required torque.",
+            "Shaft or mandrel diameter.",
+            "Drawing, photo, or sample if available."
+          ]
+        },
+        {
+          "title": "Wire forms",
+          "intro": "For clips, hooks, retainers, guides, and custom shapes.",
+          "needed": [
+            "Drawing, sketch, photo, or sample.",
+            "Quantity.",
+            "Wire diameter.",
+            "Material.",
+            "Key lengths, angles, and bend radii.",
+            "Critical mounting or contact points."
+          ],
+          "optional": [
+            "Part function: retaining, guiding, pressing, hanging.",
+            "Load, movement, or spring action if important.",
+            "Finish, left/right version, packaging, or marking requirement."
+          ]
+        },
+        {
+          "title": "Wire conveyor belts",
+          "intro": "For food, thermal, and industrial lines.",
+          "needed": [
+            "Number of belts, belt width and length, or conveyor dimensions.",
+            "Belt/mesh type if known.",
+            "Pitch, wire diameter, and cross-rod diameter if measurable.",
+            "Material and operating environment.",
+            "Photos of existing belt, drive, and edge style."
+          ],
+          "optional": [
+            "Speed, load, and product carried on the belt.",
+            "Temperature, washing, food contact, or chemical environment.",
+            "Edge style: chain, double loop, single loop, or other."
+          ]
+        },
+        {
+          "title": "Turned parts",
+          "intro": "For bushings, pins, shafts, and small turned parts up to Ø16 mm.",
+          "needed": [
+            "Drawing.",
+            "Material.",
+            "Quantity.",
+            "Main dimensions, threads, holes, grooves, and chamfers.",
+            "Critical tolerances."
+          ],
+          "optional": [
+            "Surface roughness, coating, or heat treatment.",
+            "Inspection, material certificate, or traceability requirements.",
+            "Whether this is a repair sample or a new production part."
+          ]
+        }
+      ],
+      "template": [
+        "Hello,",
+        "Please quote: [part type].",
+        "Quantity: [pieces / batch].",
+        "Material: [if known].",
+        "Main dimensions: [wire diameter, diameters, lengths, angles].",
+        "Application: [where it will be used].",
+        "Attached files: [drawing / photo / PDF].",
+        "Contact details: [company, person, phone, country]."
+      ]
+    },
+    "legal": {
+      "privacy": {
+        "heading": "Data processing",
+        "body": "Data sent by email or phone inquiry is used to process industrial inquiries, technical communication and contact with the sender.",
+        "bullets": [
+          "You can send drawings, photos or technical information through the published email address.",
+          "Use the published contacts for questions about a submitted inquiry."
+        ]
+      },
+      "terms": {
+        "heading": "Website use",
+        "body": "{brand} presents manufacturing capabilities, product categories and ways to send industrial RFQs.",
+        "bullets": [
+          "Technical information is organized for engineers, buyers and production teams.",
+          "Products can be requested by drawing, sample, photo or technical specification."
+        ]
+      }
+    },
+    "faq": {
+      "title": "FAQ",
+      "intro": "Common buyer questions about requests, drawings and product scope."
+    }
+  },
+  "Configurator": {
+    "controls": {
+      "wire": "Wire Ø",
+      "diameter": "Coil Ø",
+      "coils": "Coils",
+      "length": "Length",
+      "drag": "Drag the model. Scroll/pinch to zoom.",
+      "live": "Live 3D model",
+      "endStyle": "End style",
+      "extensionHook": "Hook type",
+      "englishHook": "English hook",
+      "germanHook": "German hook",
+      "torsionHand": "Wind direction",
+      "leftHand": "Left",
+      "rightHand": "Right",
+      "note": "The 3D visualization is only a visual helper tool. Real engineering calculations and tolerances are confirmed by drawing/specification."
+    },
+    "types": [
+      {
+        "kind": "compression",
+        "label": "Compression",
+        "endLabel": "closed / ground-style ends"
+      },
+      {
+        "kind": "extension",
+        "label": "Extension",
+        "endLabel": "loop hooks on both ends"
+      },
+      {
+        "kind": "torsion",
+        "label": "Torsion",
+        "endLabel": "torsion legs"
+      }
+    ]
+  },
+  "Catalog": {
+    "filters": [
+      {
+        "id": "all",
+        "label": "All"
+      },
+      {
+        "id": "compression",
+        "label": "Compression"
+      },
+      {
+        "id": "extension",
+        "label": "Extension"
+      },
+      {
+        "id": "torsion",
+        "label": "Torsion"
+      },
+      {
+        "id": "wire-forms",
+        "label": "Wire forms"
+      },
+      {
+        "id": "conveyor-belts",
+        "label": "Belts"
+      }
+    ],
+    "products": {
+      "compression-springs": {
+        "slug": "compression-springs",
+        "title": "Compression springs",
+        "short": "Precise cylindrical and special compression springs for industrial mechanisms.",
+        "description": "Manufactured by drawing, sample, or specification with clear dimensions, material, load, and batch requirements.",
+        "specs": [
+          "Wire Ø0.2–4.5 mm",
+          "Cylindrical and special forms",
+          "One-offs, small and medium batches"
+        ],
+        "useCases": [
+          "Machinery",
+          "Spare parts",
+          "Automation",
+          "Packaging machines"
+        ],
+        "materials": [
+          "Spring steel",
+          "Stainless steel",
+          "According to confirmed specification"
+        ],
+        "seoTitle": "Compression springs from Ø0.2 to Ø4.5 mm wire",
+        "seoDescription": "Manufacturing compression springs by drawing, sample, or specification for industrial applications."
+      },
+      "extension-springs": {
+        "slug": "extension-springs",
+        "title": "Extension springs",
+        "short": "Extension springs with hooks, loops, and custom end forms.",
+        "description": "Suitable for return, closing, tensioning, and motion-compensation mechanisms.",
+        "specs": [
+          "Various end forms",
+          "Wire Ø0.2–4.5 mm",
+          "By sample or drawing"
+        ],
+        "useCases": [
+          "Doors and covers",
+          "Mechanisms",
+          "Maintenance",
+          "Automation"
+        ],
+        "materials": [
+          "Spring steel",
+          "Stainless steel",
+          "On request"
+        ],
+        "seoTitle": "Extension springs by drawing",
+        "seoDescription": "Extension springs with different hooks and end forms for industrial mechanisms."
+      },
+      "torsion-springs": {
+        "slug": "torsion-springs",
+        "title": "Torsion springs",
+        "short": "Torsion springs with legs and angles made to design requirements.",
+        "description": "Made for rotating mechanisms, hinges, covers, clamping, and positioning.",
+        "specs": [
+          "Left/right hand winding",
+          "Legs by drawing",
+          "Critical dimension control"
+        ],
+        "useCases": [
+          "Hinges",
+          "Covers",
+          "Clamping mechanisms",
+          "Spare parts"
+        ],
+        "materials": [
+          "Spring steel",
+          "Stainless steel",
+          "Application-specific"
+        ],
+        "seoTitle": "Torsion springs for industry",
+        "seoDescription": "Torsion springs with custom legs by drawing or sample for rotating mechanisms."
+      },
+      "wire-forms": {
+        "slug": "wire-forms",
+        "title": "Wire forms",
+        "short": "Technical bends, hooks, clips, brackets, and non-standard wire details.",
+        "description": "Manufactured for assembly, fixing, guiding, and specific functions in industrial products.",
+        "specs": [
+          "Bending by drawing",
+          "Repeatable geometry",
+          "By sample or 3D sketch"
+        ],
+        "useCases": [
+          "Mounting clips",
+          "Retainers",
+          "Guides",
+          "Hooks"
+        ],
+        "materials": [
+          "Steel wire",
+          "Stainless wire",
+          "According to confirmed specification"
+        ],
+        "seoTitle": "Wire forms and technical wire details",
+        "seoDescription": "Manufacturing wire forms, clips, hooks, and details by drawing or sample."
+      },
+      "automatic-parts": {
+        "slug": "precision-turned-parts",
+        "title": "Precision turned parts",
+        "short": "Precision turned parts up to Ø16 mm for machines and maintenance.",
+        "description": "Precision turned parts up to Ø16 mm diameter. Made to drawing for new production batches, machine spare parts, and specialized assemblies with critical tolerances.",
+        "specs": [
+          "Up to Ø16 mm diameter",
+          "By drawing",
+          "Small and medium batches",
+          "Functional dimension control"
+        ],
+        "useCases": [
+          "Machinery",
+          "Repair",
+          "Production lines",
+          "Automation"
+        ],
+        "materials": [
+          "According to drawing",
+          "Steel",
+          "Stainless steel when confirmed"
+        ],
+        "seoTitle": "Precision turned parts up to Ø16 mm",
+        "seoDescription": "Precision turned parts up to Ø16 mm by drawing for machines, repair, and maintenance."
+      },
+      "spring-conveyor-belts": {
+        "slug": "wire-conveyor-belts",
+        "title": "Wire conveyor belts",
+        "short": "Wire conveyor belts for industrial, food and thermal lines.",
+        "description": "Suitable for transport, cooling, drying, washing, baking, and other applications after technical confirmation.",
+        "specs": [
+          "Width and pitch by specification",
+          "For industrial and food lines",
+          "Compatibility based on operating conditions"
+        ],
+        "useCases": [
+          "Baking",
+          "Cooling",
+          "Drying",
+          "Washing",
+          "Transport"
+        ],
+        "materials": [
+          "According to environment",
+          "Stainless steel where required",
+          "Upon technical confirmation"
+        ],
+        "seoTitle": "Wire conveyor belts for industrial and food use",
+        "seoDescription": "Wire conveyor belts for baking, cooling, drying, washing, and industrial transport."
+      }
+    }
+  },
+  "Content": {
+    "applications": [
+      {
+        "title": "Machinery",
+        "text": "Springs, wire forms, and spare parts for mechanisms, assemblies, and special machines."
+      },
+      {
+        "title": "Food processing",
+        "text": "Belts and details for baking, cooling, washing, drying, and transport after technical confirmation."
+      },
+      {
+        "title": "Packaging machines",
+        "text": "Springs and forms for guiding, clamping, return motion, and positioning."
+      },
+      {
+        "title": "Agricultural equipment",
+        "text": "Durable parts for maintenance and replacement by sample or drawing."
+      },
+      {
+        "title": "Automation",
+        "text": "Small batches of springs and wire details for automated assemblies."
+      },
+      {
+        "title": "Repair and maintenance",
+        "text": "Fast manufacturing of non-standard spare parts by photo, sample, or drawing."
+      }
+    ],
+    "about": {
+      "focus": {
+        "title": "A technical partner for custom parts",
+        "body": "When a standard spring or spare part does not solve the problem, Stevini helps turn a drawing, sample, or worn component into repeatable production. We take a practical approach: function, working environment, critical dimensions, and material are clarified before we propose a manufacturing route. The result is not just a wire product, but a part that fits the machine, line, or repair."
+      },
+      "request": {
+        "title": "What to send for a quote",
+        "items": [
+          "Send a drawing, photo, sample, or short description of the problem and mounting position.",
+          "Include the available dimensions, material, quantity, load, working environment, and critical contact points.",
+          "We check feasibility and clarify details where needed before preparing a realistic quote for a small or medium batch."
+        ]
+      }
+    },
+    "capabilities": [
+      "B2B production for machines, lines, maintenance and industrial batches",
+      "Springs from wire Ø0.2–4.5 mm",
+      "Compression, extension, and torsion springs",
+      "Wire forms and non-standard geometry",
+      "Precision turned parts up to Ø16 mm",
+      "Wire conveyor belts",
+      "Manufacturing by drawing, sample, photo, or specification",
+      "Small and medium production batches",
+      "Materials and finishes only after real confirmation"
+    ],
+    "geoFacts": [
+      "A suitable partner for engineers, maintenance teams and procurement when a part has to fit a specific machine, line or mounting point.",
+      "Production of springs, wire forms, conveyor belts and precision turned parts with a focus on function, not a universal catalogue.",
+      "Useful for replacing worn spare parts, small batches for new products, and adjustments to existing assemblies.",
+      "The process is direct: technical clarification, feasibility confirmation, production and dimensional checks before delivery."
+    ],
+    "faqs": [
+      {
+        "question": "What is the maximum wire diameter?",
+        "answer": "Wire diameter range is Ø0.2–4.5 mm, depending on spring type and geometry."
+      },
+      {
+        "question": "Can we send a drawing or photo?",
+        "answer": "Yes. Send a drawing, photo, or file by email, and a physical sample can be arranged if needed."
+      },
+      {
+        "question": "Do you manufacture wire conveyor belts?",
+        "answer": "Yes. Stevini manufactures wire conveyor belts for industrial and food lines after technical clarification."
+      }
+    ]
+  },
+  "Routes": {
+    "sections": {
+      "products": "products",
+      "applications": "applications",
+      "capabilities": "capabilities",
+      "about": "about",
+      "contacts": "contacts",
+      "contact": "request-quote",
+      "privacy": "privacy",
+      "terms": "terms"
+    }
+  }
+}
